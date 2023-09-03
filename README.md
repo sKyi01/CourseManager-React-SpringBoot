@@ -89,15 +89,15 @@ npm start
 
 - **Add Courses**: Page for adding new courses.
   - **Endpoint:** [http://localhost:3000/add-courses](http://localhost:3000/add-courses)
-  ![Add Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/AddCourse.png)
+  ![Add Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/AddCourses.png)
 
 - **View Courses**: Page for viewing a list of all available courses.
   - **Endpoint:** [http://localhost:3000/view-courses](http://localhost:3000/view-courses)
-   ![View Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/ViewCourse.png)
+   ![View Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/ViewCourses.png)
 
 - **Update Courses**: Page for updating course details.
   - **Endpoint:** [http://localhost:3000/update-courses](http://localhost:3000/update-courses)
-  ![Update Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/UpdateCourse.png)
+  ![Update Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/UpdateCourses.png)
 
 - **Contact Us**: Contact information page.
   - **Endpoint:** [http://localhost:3000/contact-us](http://localhost:3000/contact-us)
