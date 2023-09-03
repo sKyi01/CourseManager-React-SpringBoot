@@ -93,7 +93,7 @@ npm start
 
 - **View Courses**: Page for viewing a list of all available courses.
   - **Endpoint:** [http://localhost:3000/view-courses](http://localhost:3000/view-courses)
-   ![View Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/ViewCourses.png)
+   ![View Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/AllCourses.png)
 
 - **Update Courses**: Page for updating course details.
   - **Endpoint:** [http://localhost:3000/update-courses](http://localhost:3000/update-courses)
