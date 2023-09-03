@@ -34,7 +34,7 @@ const Course = ({ course, update, setSelected }) => {
   return (
     <Card className="text-center">
       <CardBody>
-        <CardSubtitle className="font-weight-bold">{course.title}</CardSubtitle>
+        <CardSubtitle className="font-weight-bold"><b>{course.title}</b></CardSubtitle>
         <CardText>{course.description}</CardText>
         <Container className="text-center">
           <Button
