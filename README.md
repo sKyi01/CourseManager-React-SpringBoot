@@ -52,7 +52,7 @@ npm start
 
 ## API Endpoints (Port 2023)
 
-### Add Course
+### Add Course 
 - **Endpoint:** `POST http://localhost:2023/api/add-courses`
 - **Description:** Add a new course.
 - **Request Body:** JSON object with course details (excluding `id`).
