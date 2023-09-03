@@ -83,7 +83,7 @@ npm start
 
 - **Home**: The landing page of the application.
   - **Endpoint:** [http://localhost:3000/](http://localhost:3000/)
-    ![Home](course_manager/src/img/Screenshot 2023-09-03 135440.png)
+    ![Home](https://github.com/sKyi01/course_manager/src/img/Screenshot 2023-09-03 135440.png)
 
 - **Add Courses**: Page for adding new courses.
   - **Endpoint:** [http://localhost:3000/add-courses](http://localhost:3000/add-courses)
