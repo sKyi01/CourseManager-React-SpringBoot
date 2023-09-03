@@ -34,7 +34,7 @@ The Course Manager Web App is a full-stack web application for managing course d
 
 1. Navigate to the Spring Boot project directory (`course-manager-api` or similar).
 2. Configure your Oracle database connection in `application.properties` or `application.yml`.
-3. Build and run the Spring Boot application on port 3000.
+3. Build and run the Spring Boot application on port 2023.
 
 ```bash
 cd course-manager-api
@@ -92,6 +92,8 @@ npm start
   - **Endpoint:** [http://localhost:3000/contact-us](http://localhost:3000/contact-us)
 - **About Project**: Page providing information about the project.
   - **Endpoint:** [http://localhost:3000/about-project](http://localhost:3000/about-project)
+
+```
 
 ## Usage
 
