@@ -53,29 +53,29 @@ npm start
 ## API Endpoints (Port 2023)
 
 ### Add Course
-- **Endpoint:** `POST http://localhost:2023/add-courses`
+- **Endpoint:** `POST http://localhost:2023/api/add-courses`
 - **Description:** Add a new course.
 - **Request Body:** JSON object with course details (excluding `id`).
 - **Example:** `curl -X POST -H "Content-Type: application/json" -d '{"id: xxxx, "title":"Course Title","description":"Course Description"}' http://localhost:2023/api/add-courses`
 
 ### Get Course by ID
-- **Endpoint:** `GET http://localhost:2023/get-coursesById/{id}`
+- **Endpoint:** `GET http://localhost:2023/api/get-coursesById/{id}`
 - **Description:** Retrieve a course by its ID.
 - **Example:** `curl http://localhost:2023/api/get-coursesById/1`
 
 ### Get All Courses
-- **Endpoint:** `GET http://localhost:2023/get-allCourses`
+- **Endpoint:** `GET http://localhost:2023/api/get-allCourses`
 - **Description:** Retrieve a list of all available courses.
 - **Example:** `curl http://localhost:2023/api/get-allCourses`
 
 ### Update Course
-- **Endpoint:** `PUT http://localhost:2023/update-courses/{id}`
+- **Endpoint:** `PUT http://localhost:2023/api/update-courses/{id}`
 - **Description:** Update an existing course by its ID.
 - **Request Body:** JSON object with updated course details (including `id`).
 - **Example:** `curl -X PUT -H "Content-Type: application/json" -d '{"id": 1, "title":"Updated Title","description":"Updated Description"}' http://localhost:2023/api/update-courses/1`
 
 ### Delete Course by ID
-- **Endpoint:** `DELETE http://localhost:2023/delete-coursesById/{id}`
+- **Endpoint:** `DELETE http://localhost:2023/api/delete-coursesById/{id}`
 - **Description:** Delete a course by its ID.
 - **Example:** `curl -X DELETE http://localhost:2023/api/delete-coursesById/1`
 
