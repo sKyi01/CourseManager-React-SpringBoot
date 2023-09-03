@@ -83,18 +83,28 @@ npm start
 
 - **Home**: The landing page of the application.
   - **Endpoint:** [http://localhost:3000/](http://localhost:3000/)
-    ![Home](https://github.com/sKyi01/course_manager/src/img/Screenshot 2023-09-03 135440.png)
+![Screenshot](![Screenshot (222)]([https://github.com/sKyi01/](https://github.com/sKyi01/CourseManager-React-SpringBoot/course_manager/src/img/Home.png)
 
 - **Add Courses**: Page for adding new courses.
   - **Endpoint:** [http://localhost:3000/add-courses](http://localhost:3000/add-courses)
+    ![Screenshot](![Screenshot (222)]([https://github.com/sKyi01/](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/AddCourse.png)
+
 - **View Courses**: Page for viewing a list of all available courses.
   - **Endpoint:** [http://localhost:3000/view-courses](http://localhost:3000/view-courses)
+    ![Screenshot](![Screenshot (222)]([https://github.com/sKyi01/](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/ViewCourse.png)
+
 - **Update Courses**: Page for updating course details.
   - **Endpoint:** [http://localhost:3000/update-courses](http://localhost:3000/update-courses)
+    ![Screenshot](![Screenshot (222)]([https://github.com/sKyi01/](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/UpdateCouse.png)
+
 - **Contact Us**: Contact information page.
   - **Endpoint:** [http://localhost:3000/contact-us](http://localhost:3000/contact-us)
+    ![Screenshot](![Screenshot (222)]([https://github.com/sKyi01/](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/ContactUs.png)
+
 - **About Project**: Page providing information about the project.
   - **Endpoint:** [http://localhost:3000/about-project](http://localhost:3000/about-project)
+    ![Screenshot](![Screenshot (222)]([https://github.com/sKyi01/](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/AboutProject.png)
+
 
 
 
