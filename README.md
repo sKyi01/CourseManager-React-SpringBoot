@@ -30,7 +30,7 @@ The Course Manager Web App is a full-stack web application for managing course d
 ## Setup Instructions
 
 ```markdown
-### Backend Setup
+## Backend Setup
 
 1. Navigate to the Spring Boot project directory (`course-manager-api` or similar).
 2. Configure your Oracle database connection in `application.properties` or `application.yml`.
