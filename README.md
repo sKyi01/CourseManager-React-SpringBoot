@@ -97,7 +97,7 @@ npm start
 
 - **Update Courses**: Page for updating course details.
   - **Endpoint:** [http://localhost:3000/update-courses](http://localhost:3000/update-courses)
-  ![Update Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/UpdateCourses.png)
+![Update Couses](https://github.com/sKyi01/CourseManager-React-SpringBoot/blob/62e53ef595d47790153d1f2958b1909fb441b6e0/course_manager/src/img/UpdateCouses.png)
 
 - **Contact Us**: Contact information page.
   - **Endpoint:** [http://localhost:3000/contact-us](http://localhost:3000/contact-us)
