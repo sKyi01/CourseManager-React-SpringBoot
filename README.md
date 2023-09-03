@@ -48,6 +48,7 @@ Install dependencies and start the development server.
 cd course-manager-app
 npm install
 npm start
+```
 
 ## API Endpoints (Port 2023)
 
@@ -93,7 +94,7 @@ npm start
 - **About Project**: Page providing information about the project.
   - **Endpoint:** [http://localhost:3000/about-project](http://localhost:3000/about-project)
 
-```
+
 
 ## Usage
 
