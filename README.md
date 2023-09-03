@@ -37,7 +37,6 @@ The Course Manager Web App is a full-stack web application for managing course d
 2. Configure your Oracle database connection in `application.properties` or `application.yml`.
 3. Build and run the Spring Boot application on port 2023.
 
-```bash
 cd course-manager-api
 # Build and run using Maven
 mvn spring-boot:run
