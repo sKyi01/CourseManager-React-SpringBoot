@@ -83,7 +83,8 @@ npm start
 
 - **Home**: The landing page of the application.
   - **Endpoint:** [http://localhost:3000/](http://localhost:3000/)
-![Screenshot](![Screenshot (222)](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/Home.png)
+![My Image](https://github.com/sKyi01/CourseManager-React-SpringBoot/blob/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/Home.png)
+
 
 - **Add Courses**: Page for adding new courses.
   - **Endpoint:** [http://localhost:3000/add-courses](http://localhost:3000/add-courses)
