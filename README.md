@@ -89,24 +89,23 @@ npm start
 
 - **Add Courses**: Page for adding new courses.
   - **Endpoint:** [http://localhost:3000/add-courses](http://localhost:3000/add-courses)
-    ![Screenshot](![Screenshot (222)](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/AddCourse.png)
+  ![Add Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/AddCourse.png)
 
 - **View Courses**: Page for viewing a list of all available courses.
   - **Endpoint:** [http://localhost:3000/view-courses](http://localhost:3000/view-courses)
-    ![Screenshot](![Screenshot (222)](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/ViewCourse.png)
+   ![View Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/ViewCourse.png)
 
 - **Update Courses**: Page for updating course details.
   - **Endpoint:** [http://localhost:3000/update-courses](http://localhost:3000/update-courses)
-    ![Screenshot](![Screenshot (222)](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/UpdateCouse.png)
+  ![Update Course Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/UpdateCourse.png)
 
 - **Contact Us**: Contact information page.
   - **Endpoint:** [http://localhost:3000/contact-us](http://localhost:3000/contact-us)
-    ![Screenshot](![Screenshot (222)](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/ContactUs.png)
+   ![ContactUs Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/ContactUs.png)
 
 - **About Project**: Page providing information about the project.
   - **Endpoint:** [http://localhost:3000/about-project](http://localhost:3000/about-project)
-    ![Screenshot](![Screenshot (222)](https://github.com/sKyi01/CourseManager-React-SpringBoot/)course_manager/src/img/AboutProject.png)
-
+   ![About Project Screenshot](https://github.com/sKyi01/CourseManager-React-SpringBoot/raw/43f5a3155ff69cf764f347f2f7197c8d7c3b95fc/course_manager/src/img/AboutProject.png)
 
 
 
